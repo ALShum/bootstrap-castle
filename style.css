@@ -1,0 +1,58 @@
+body {
+  padding-top: 0px;  /* Move body of page below navbar. */
+  font-family: 'Open Sans', Serif;
+  background-color: #999;  
+}
+
+.bannerimg {
+  height: 185px;
+  background-image: url('img/header.jpg');
+  background-size: cover;
+}
+
+.navbar {
+  background-color: #710C0C;
+  color: #999;
+  font-size: 16px;
+}
+
+.well {
+  border: 0px;
+  background-color: #710C0C;
+  color: #999;
+}
+
+.sidebar {
+  
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: #999;
+}
+
+h2 {
+  font-size: 14px;
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+
+
+.centerimg {
+  height: 400px;
+  background-image: url('img/front.jpg');
+  background-size: contain; 
+  background-repeat: no-repeat; 
+  background-position: center;
+}
+
+.col-header {
+  text-align: center;
+  font-size: 16px;
+  padding: 10px;
+}
+
+
